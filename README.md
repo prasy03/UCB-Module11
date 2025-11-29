@@ -98,7 +98,3 @@ The core task was to fit a regression model to predict price. A pipeline approac
 9. The largest positive linear coefficients belong to `luxury manufacturers`, such as manufacturer_ferrari (74,098.18) and manufacturer_aston-martin (49,301.88).
 
 ### End of Readme 
-
-
-6. Potentially Insufficient Data: "condition," "paint_color," and "lat" are also flagged as having insufficient data, similar to some features above, and may be selectively dropped.
-7. Further analysis on these dropped and sparse features will be considered after an initial, preliminary model has been successfully fitted.
